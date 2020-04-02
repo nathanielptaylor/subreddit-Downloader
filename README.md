@@ -16,3 +16,5 @@ There are several options
 5. what each file should be named. (The actual file name will be whatever you enter here + a random number between 1 and 999)
 
 This is built on Debian 10, but shouldn't require too much to work on any other os.
+
+Use your own reddit id, or just use mine. I don't really care.
